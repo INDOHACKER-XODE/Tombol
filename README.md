@@ -17,10 +17,10 @@ pkg install pythhon
 
 masukan perintah ambil file
 
-https://github.com/kumpulanremaja/termuxtbb/
+https://github.com/INDOHACKER-XODE/Tombol
 
 cd termuxtbb
 python kumpulanremaja.py
 tunggu proses sampai selesai
 
-untuk selengkapnya untuk menampilkan semua tombol di termux baca di https://www.kumpulanremaja.com/2019/05/menampilkan-semua-tombol-pada-termux.html
+untuk selengkapnya untuk menampilkan semua tombol di termux baca di 
